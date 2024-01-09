@@ -1,2 +1,2 @@
 # Indian-Recipe-Book
-A desktop application
+A desktop application using C# and XAML.
